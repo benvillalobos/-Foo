@@ -2,14 +2,7 @@
 id: lessonpart1
 title: Page2
 duration: 123
-content: |
-  # Test One Two
-
-  Three
-
-
-
-  Anything but that.
+content: "# Enter your content here"
 showContent: true
 showEditor: true
 showTerminal: true
